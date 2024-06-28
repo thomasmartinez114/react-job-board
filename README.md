@@ -49,6 +49,12 @@ npm run server
 npm run dev
 ```
 
+### Run NPM-JSON Server
+
+```
+npm run server
+```
+
 ### Build for Production
 
 ```
